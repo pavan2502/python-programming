@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[2]:
-
+#Assignment question 1
 
 sum = 0
 a = int(input("enter a "))
@@ -14,6 +14,7 @@ print("The sum is",sum)
 
 # In[16]:
 
+#Assignment question 2
 
 n = int(input("Enter n"))
 if n>1:
